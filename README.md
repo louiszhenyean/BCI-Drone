@@ -4,9 +4,6 @@ Brain Computer Interface (BCI) Drone User Manual and Source Code
 # MultiWii
 https://www.youtube.com/watch?v=fXq0gtNhOpA
 
-# BCI Workshop
-https://drive.google.com/drive/u/0/folders/1cBr7dxfjRUF5CZVPv9gEXQ0AC0So-nc_
-
 # JDK 虚拟机
 https://drive.google.com/drive/u/0/folders/13bD33AY10__fuQhysKqN2lBrCp_i_tUY
 
